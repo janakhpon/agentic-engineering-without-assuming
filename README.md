@@ -94,15 +94,9 @@ Anything that only runs locally is one `--no-verify` away from not running at al
 
 **The value isn't any individual check.** It's that an agent finishing a task and an agent finishing a task *correctly* have different exit codes. I don't have to be the one who notices.
 
-<!-- meme: Kakashi, calm and unbothered, reading Icha Icha Paradise while everyone
-     else is still mid-fight — he already read the situation and finished what he
-     came to do. That's the agent. I'm still the one catching up, paragraph two
-     of the diff.
-     caption: "It finished in ninety seconds. I'm on paragraph two of the diff."
-     asset: ./assets/agentic-engineering-without-assuming-meme-1.avif — not created yet.
-     Needs a real frame/redraw sourced and licensed by a person, not asserted here.
-     Slug matches the hero above, which drops the date; `writing-rules.md` says `<slug>` and
-     this file has already decided what its slug is. -->
+![Kakashi, unbothered, reading — Naruto](./assets/agentic-engineering-without-assuming-meme-1.jpg)
+
+> It finished in ninety seconds. I'm on paragraph two of the diff.
 
 ## The test suite, by tier — and it isn't a pyramid
 

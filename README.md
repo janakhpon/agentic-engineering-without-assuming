@@ -2,9 +2,7 @@
 
 _I use coding agents to write most of my code these days, and I have ended up on the other side of the work: verifying and reviewing. What I still write by hand is the checks, the evals, the instructions and the config. This is what holds up across everything I maintain, told through one system's detail — where it earned its keep, and where it quietly told me nothing was wrong._
 
-<!-- hero image: generate per vlog.2025/docs/PUBLISHING.md §4, size per §2 (560x245, 16:7).
-     Intended filename: ./assets/agentic-engineering-without-assuming.avif — not created yet,
-     so no live link here. Do not add a second one of these comments. -->
+![Article cover - Agentic engineering without assuming](./assets/agentic-engineering-without-assuming.avif)
 
 Let us start with a simple scenario.
 
